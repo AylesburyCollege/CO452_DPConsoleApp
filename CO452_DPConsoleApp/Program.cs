@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CO452_DPConsoleApp.Unit1;
 
 namespace CO452_DPConsoleApp
 {
@@ -10,7 +7,7 @@ namespace CO452_DPConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Derek");
+            T11_Town.Check();
             Console.ReadKey();
         }
     }
