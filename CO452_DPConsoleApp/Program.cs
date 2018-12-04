@@ -7,7 +7,9 @@ namespace CO452_DPConsoleApp
     {
         static void Main(string[] args)
         {
-            T11_Town.Check();
+            //T11_Town.Check();
+            T12_VAT.Calculate();
+
             Console.ReadKey();
         }
     }
