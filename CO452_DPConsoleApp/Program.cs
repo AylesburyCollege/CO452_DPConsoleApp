@@ -10,6 +10,8 @@ namespace CO452_DPConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Derek");
+            Console.ReadKey();
         }
     }
 }
